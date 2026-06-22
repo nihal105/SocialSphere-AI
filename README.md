@@ -8,6 +8,11 @@
 
 ---
 
+## Live Demo
+Streamlit Application https://socialsphere-ai.streamlit.app/
+
+---
+
 ##  Project Overview
 
 **SocialSphere AI** is an end-to-end Machine Learning project that leverages **K-Means Clustering** to identify hidden behavioral patterns within Facebook users. By analyzing engagement, friendships, activity levels, and interaction metrics, the model automatically segments users into meaningful groups for data-driven insights and decision-making.
